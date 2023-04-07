@@ -1,0 +1,689 @@
+@media only screen and (max-width:1400px) {
+    .wild p.title {
+        font-weight: 500;
+        font-size: 35px;
+    }
+
+    .bola p.titler {
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .bola p.info {
+        font-weight: 300;
+        font-size: 14px;
+    }
+
+    .bola p.into {
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .bola span {
+        font-weight: 400;
+        font-size: 25px;
+    }
+
+    .bed p {
+        font-weight: 300;
+        font-size: 12px;
+    }
+
+    .bed img {
+        width: 20px;
+        height: 20px;
+    }
+
+}
+
+@media only screen and (max-width:1180px) {
+    .bola p.titler {
+        font-weight: 300;
+        font-size: 15px;
+    }
+
+    .bola p.info {
+        font-weight: 300;
+        font-size: 12px;
+    }
+
+    .bola span {
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    .bola span p {
+        font-size: 15px;
+    }
+
+    .bed p {
+        font-weight: 300;
+        font-size: 10px;
+    }
+
+    .bed img {
+        width: 17px;
+        height: 17px;
+    }
+}
+
+
+@media only screen and (max-width:1086px) {
+    nav ul {
+        width: 100%;
+        justify-content: space-around;
+        margin-left: 40px;
+    }
+
+    .reviews {
+        height: auto;
+    }
+
+    .boxs .box p.infon {
+        font-weight: 600;
+        font-size: 12px;
+    }
+
+    .boxs .box p.titl {
+        font-weight: 400;
+        font-size: 11px;
+    }
+
+}
+
+@media only screen and (max-width:900px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        gap: 15px;
+    }
+
+    .links {
+        margin: 0;
+        width: 90%;
+
+        justify-content: center;
+    }
+
+    .logo {
+        margin: 0;
+
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+
+    .bola p.titler {
+        font-weight: 300;
+        font-size: 13px;
+    }
+
+    .bola p.info {
+        font-weight: 300;
+        font-size: 10px;
+    }
+
+    .bola p.into {
+        font-weight: 300;
+        font-size: 12px;
+    }
+
+    .bola span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+
+    .bola span p {
+        font-size: 10px;
+    }
+
+    .bed p {
+        font-weight: 300;
+        font-size: 8px;
+    }
+
+    .bed img {
+        width: 15px;
+        height: 15px;
+    }
+}
+
+@media only screen and (max-width:900px) {
+    .showcase p.title {
+        font-weight: 600;
+        font-size: 38px;
+        width: 60%;
+    }
+
+    .showcase p {
+        font-weight: 400;
+        font-size: 15px;
+        width: 50%;
+    }
+
+    .search {
+        width: 60%;
+        height: 70px;
+    }
+}
+
+@media only screen and (max-width:900px) {
+    .payme .cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+        height: auto;
+    }
+
+    .payme .why {
+        width: 400px;
+        height: 170px;
+
+        margin: 0 auto;
+    }
+
+    .why p.title {
+        font-weight: 600;
+        font-size: 30px;
+    }
+
+    .why p.info {
+        font-weight: 300;
+        font-size: 15px;
+    }
+
+    .payme {
+        height: auto;
+    }
+
+    .payme .cards .card {
+        width: 45%;
+        height: auto;
+    }
+
+    .recent p.title {
+        font-weight: 600;
+        font-size: 30px;
+    }
+
+    .recent .post p.qalin {
+        font-weight: 600;
+        font-size: 15px;
+    }
+
+    .post p.in {
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .minut p {
+        font-weight: 400;
+        font-size: 12 px;
+    }
+
+    .showcase p.title {
+        font-size: 30px;
+    }
+
+    .showcase p {
+        font-size: 15px;
+    }
+
+
+    .footer  .qutilar{
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .qutilar .quti{
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:750px) {
+    .bed p {
+        font-weight: 300;
+        font-size: 7px;
+    }
+
+    .bed img {
+        width: 12px;
+        height: 14px;
+    }
+
+    .boxs .box p.infon {
+        font-weight: 600;
+        font-size: 10px;
+    }
+
+    .boxs .box p.titl {
+        font-weight: 400;
+        font-size: 8px;
+    }
+
+    .reviews button {
+        width: 180px;
+        font-size: 12px;
+    }
+
+    .reviews {
+        margin-top: 0;
+    }
+
+    .showcase p.title {
+        font-size: 25px;
+    }
+
+    .showcase p {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width:731px) {
+    .search .card p.title {
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .search .card p.info {
+        font-weight: 400;
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width:680px) {
+    .nav{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 25px;
+    }
+    .nav .you{
+        width: 100%;
+    }
+    .nav .design{
+        width: 100%;
+    }
+    .nav .icon{
+        width: 100%;
+        justify-content: center;
+    }
+}
+@media only screen and (max-width:650px) {
+    .payme .why {
+        width: 70%;
+        align-items: center;
+
+        box-sizing: border-box;
+
+    }
+
+    .why p.title {
+        font-size: 20px;
+    }
+
+    .payme .card p.title {
+        font-size: 18px;
+    }
+
+    .payme .cards {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .payme .cards .card {
+        width: 50%;
+
+        box-sizing: border-box;
+
+    }
+
+    .wild {
+        height: auto;
+    }
+
+    .wild .ota {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+
+    }
+
+    .ota .bola {
+        width: 70%;
+    }
+
+    .wild p.title {
+        font-size: 28px;
+    }
+
+    .bola p.titler {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 27px;
+        /* identical to box height */
+
+
+        /* color_text */
+
+        color: #262729;
+        margin-top: 15px;
+    }
+
+    .bola p.info {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+
+        color: #858585;
+
+    }
+
+    .bola p.into {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 133% */
+
+        margin-top: 5px;
+        /* color_text */
+
+        color: #262729;
+        margin-bottom: 10px;
+    }
+
+    .bola span {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 40px;
+        /* identical to box height, or 133% */
+
+
+        /* color_accent */
+
+        color: #2A90D9;
+
+    }
+
+    .bed img {
+        width: 25px;
+        height: 25px;
+
+    }
+
+    .beds {
+        width: 100%;
+        display: flex;
+        margin-top: 18px;
+
+    }
+
+    .bed {
+        display: flex;
+        width: 30%;
+
+
+    }
+
+    .reviews p.title {
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .reviews .boxs {
+        display: flex;
+        flex-direction: column;
+
+        padding: 0;
+
+        align-items: center;
+
+    }
+
+    .boxs .box:first-child {
+        width: 70%;
+        text-align: center;
+
+        padding: 20px;
+        box-sizing: border-box;
+
+    }
+
+    .boxs .box:nth-child(2) {
+        display: none;
+    }
+
+    .boxs .box:nth-child(3) {
+        display: none;
+    }
+
+    .boxs .box p.titl {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        /* or 138% */
+        text-align: start;
+        width: 100%;
+        /* color_text */
+
+        color: #262729;
+    }
+
+    .boxs .box p.infon {
+        font-family: 'Montserrat';
+        font-style: italic;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+
+
+        color: #1A1A1A;
+        text-align: start;
+        margin-top: 10px;
+    }
+
+    .recent .posts {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .posts {
+        width: 100%;
+        height: auto;
+
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .post {
+        width: 70%;
+        height: auto;
+
+        margin-top: 60px;
+    }
+
+    .post p.qalin {
+        font-weight: 600;
+        font-size: 22px;
+    }
+
+    .post p.in {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:510px) {
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 80%;
+
+
+    }
+
+    nav ul {
+        display: none;
+    }
+
+    .links {
+
+        justify-content: end;
+    }
+
+    .links img:first-child {
+        display: none;
+    }
+
+    .links img:nth-child(2) {
+        display: none;
+    }
+
+    .links img:nth-child(3) {}
+
+    .showcase p.title {
+        width: 90%;
+        font-weight: 700;
+        font-size: 30px;
+    }
+
+    .showcase p {
+        width: 60%;
+        font-weight: 500;
+        font-size: 16px;
+
+    }
+
+    .cards {
+        margin-top: 60px;
+    }
+
+    .cards .card {
+        width: 100%;
+        padding: 0;
+    }
+
+    .wild .ota .bola {
+        width: 100%;
+    }
+
+    .beds .bed p {
+        font-weight: 600;
+        font-size: 15px;
+    }
+
+    .reviews .boxs .box {
+        width: 100%;
+        padding: 5px;
+    }
+
+    .search {
+        width: 60%;
+    }
+
+    .search .card:first-child {
+        display: none;
+    }
+    nav .logo img.menu{
+        display: block;
+    }
+    .qutilar{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width:430px) {
+    .showcase p {
+        width: 80%;
+
+    }
+
+    .showcase p.title {
+        width: 90%;
+
+    }
+    
+    .payme .cards .card {
+        width: 90%;
+    }
+
+    .ota .bola .beds {
+        display: none;
+    }
+
+    p.qalin {
+        font-size: 20px;
+    }
+
+    .search {
+        position: relative;
+        top: -100px;
+        width: 70%;
+    }
+    nav .logo img.menu{
+        display: block;
+    }
+
+
+}
+
+@media only screen and (max-width:360px) {
+    .showcase p {
+        font-weight: 500;
+        font-size: 16px;
+        width: 80%;
+    }
+
+    .showcase p.title {
+        width: 100%;
+        font-weight: 900;
+         font-size: 25px;
+    }
+    .qutilar{
+        align-items: flex-start;
+        
+    }
+    .qutilar .quti ul li.bola input{
+        width: 150%;
+    }
+    .you{
+        
+        text-align: start;
+    }
+    .design{
+        text-align: start;
+    }
+    .icon{
+        text-align: start;
+        justify-content: flex-start;
+        border: 1px solid red;
+
+    }
+   
+
+
+}
